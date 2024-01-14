@@ -1,0 +1,28 @@
+.root {
+    text-align: center;
+    font-size: 2em;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 20% 10%;
+    min-height: 50vh;
+}
+
+.title {
+    background-color: white;
+    margin: 20px 0;
+}
+
+.ul {
+    margin: 0 20px;
+    background-color: white;
+    list-style-type: none;
+}
+
+.li {
+    background-color: white;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: gray 2px solid;
+}
