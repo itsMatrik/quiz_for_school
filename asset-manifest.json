@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quiz_for_school/static/css/main.2125591e.css",
+    "main.js": "/quiz_for_school/static/js/main.8f98a153.js",
+    "index.html": "/quiz_for_school/index.html",
+    "main.2125591e.css.map": "/quiz_for_school/static/css/main.2125591e.css.map",
+    "main.8f98a153.js.map": "/quiz_for_school/static/js/main.8f98a153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2125591e.css",
+    "static/js/main.8f98a153.js"
+  ]
+}
